@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://hod.atabook.org" target="_blank" rel="noopener noreferrer">
   <img src="https://i.postimg.cc/fLgzZc9m/Untitled2058-20260604210729.png" alt="Atabook" width="200"></a>    <a href="https://rentry.co/closetome" target="_blank" rel="noopener noreferrer">
-  <img src="https://i.postimg.cc/MTr6x7Qy/Untitled2058-20260604210738.png" alt="PT Rentry" width="200"></a>    <a href="https://guns.lol/badthings" target="_blank" rel="noopener noreferrer">
+  <img src="https://i.postimg.cc/MTr6x7Qy/Untitled2058-20260604210738.png" alt="PT Rentry" width="200"></a>    <a href="https://guns.lol/lovetown" target="_blank" rel="noopener noreferrer">
   <img src="https://i.postimg.cc/qRZJ0s3c/Untitled2058-20260604210759.png" alt="Contact" width="200"></a>
 </p></p>
 
